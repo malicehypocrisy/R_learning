@@ -11,7 +11,7 @@ git init
 git config --global user.name "你的GitHub用户名"
 git config --global user.email "你的GitHub注册邮箱"
 #关联本地仓库到远程
-git remote add origin s's
+git remote add origin ssh
 #删除已经存在URL
 git remote remove origin
 #提交文件
